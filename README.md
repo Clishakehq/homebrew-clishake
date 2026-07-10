@@ -1,18 +1,18 @@
 # homebrew-clishake
 
-Homebrew tap for [clishake](https://github.com/immersir/clishake) — the
+Homebrew tap for [clishake](https://github.com/clishakehq/clishake) — the
 terminal coordination layer for collaborating coding agents.
 
 ## Install
 
 ```sh
-brew install --cask immersir/clishake/clishake
+brew install --cask clishakehq/clishake/clishake
 ```
 
 Or tap first, then install:
 
 ```sh
-brew tap immersir/clishake
+brew tap clishakehq/clishake
 brew install --cask clishake
 ```
 
